@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/pace_256.png" width="128" alt="PACE icon"></p>
 
-# PACE — Power Automation Cycle Engine
+# PACE Power Automation Cycle Engine
 **Automated Reliability Stress-Test Platform** for up to 8× Aim-TTi CPX400DP power supplies
 (synchronous / asynchronous / constant modes, scenario editor, watchdog failsafe, live graph & logs).
 
